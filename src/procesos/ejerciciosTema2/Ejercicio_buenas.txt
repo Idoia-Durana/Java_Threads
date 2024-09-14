@@ -1,0 +1,4 @@
+La palabra buenas tiene 3 vocales.
+La palabra buenas tiene 3 consonantes.
+La palabra buenas tiene 0 mayusculas.
+La palabra no es palindromo

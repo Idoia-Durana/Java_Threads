@@ -1,0 +1,4 @@
+La palabra hola tiene 2 vocales.
+La palabra hola tiene 2 consonantes.
+La palabra hola tiene 0 mayusculas.
+La palabra no es palindromo
